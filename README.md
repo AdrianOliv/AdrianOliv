@@ -1,5 +1,3 @@
-![AdrianOliv](https://github.com/AdrianOliv/Assets/blob/main/Moderno_Logotipo.gif)
-
 # AdrianOliv
 
 - 👋 Hello, I'm @AdrianOliv
