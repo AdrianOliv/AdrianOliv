@@ -1,15 +1,22 @@
+[![Logo](https://github.com/AdrianOliv/Assets/blob/main/Logoti.gif)](https://github.com/AdrianOliv)
+
 # AdrianOliv
 
-### My Infos
-- 👋 Hello, I'm @AdrianOliv
-- 👀 I'm interested in learning more about programming
-- 🌱 I'm currently learning Python
-- 📫 Learn more about me at: https://www.linkedin.com/in/ag-noliveira
+### Resume
+Moved by modern and timeless issues, I learned to always look for content to answer my doubts.  
+One is: how are things formed?  
+Curiosity and enthusiasm for programming things and their languages motivated me to go even further.
 
-### GitHub Stats
-[credits]: <> (github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianOliv&hide=contribs,prs&show_icons=true)](https://github.com/AdrianOliv)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianOliv&layout=compact)](https://github.com/AdrianOliv)
+### My Infos
+- 👋 Hello, I'm Adrian Oliveira - or @AdrianOliv
+- 🎓 Majoring in Production Engineering
+- 🤓 I'm interested in learning more about programming
+- 🌱 I'm currently learning Python and Visual Basic
+- 🔨 Always practicing my ideas...
+- 📫 Learn more about me at: 
+
+  [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ag-noliveira)
+  [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ag.noliveira)
 
 ### My Repositories
 [credits]: <> (github.com/anuraghazra/github-readme-stats)
