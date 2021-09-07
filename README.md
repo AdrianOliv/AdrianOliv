@@ -1,10 +1,13 @@
-[![Logo](https://github.com/AdrianOliv/Assets/blob/main/Adrian_oliv.gif)](https://github.com/AdrianOliv)
-
 # Adrian Oliveira
+<img align="left" alt="GIF" src="https://github.com/AdrianOliv/Assets/blob/main/Adrian_oliv.gif"  width="300"/>
+
+<pre></pre>
 
 Moved by modern and timeless issues, I learned to always look for content to answer my doubts.  
 One is: how are things formed?  
 Curiosity and enthusiasm for programming things and their languages motivated me to go even further.
+
+<pre></pre>
 
 ### My Infos
 - 👋 Hello, I'm Adrian Oliveira - or @AdrianOliv
