@@ -2,7 +2,6 @@
 
 # AdrianOliv
 
-### Abstract
 Moved by modern and timeless issues, I learned to always look for content to answer my doubts.  
 One is: how are things formed?  
 Curiosity and enthusiasm for programming things and their languages motivated me to go even further.
@@ -20,5 +19,5 @@ Curiosity and enthusiasm for programming things and their languages motivated me
 
 ### My Repositories
 [credits]: <> (github.com/anuraghazra/github-readme-stats)
-[![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=AdrianOliv&repo=Python)](https://github.com/AdrianOliv/Python)
-[![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=AdrianOliv&repo=VBA_Projects)](https://github.com/AdrianOliv/VBA_Projects)
+[![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=AdrianOliv&repo=Python&theme=graywhite)](https://github.com/AdrianOliv/Python)
+[![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=AdrianOliv&repo=VBA_Projects&theme=graywhite)](https://github.com/AdrianOliv/VBA_Projects)
