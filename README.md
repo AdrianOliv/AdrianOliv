@@ -1,4 +1,4 @@
-[![Logo](https://github.com/AdrianOliv/Assets/blob/main/Logoti.gif)](https://github.com/AdrianOliv)
+[![Logo](https://github.com/AdrianOliv/Assets/blob/main/Adrian_oliv.gif)](https://github.com/AdrianOliv)
 
 # Adrian Oliveira
 
