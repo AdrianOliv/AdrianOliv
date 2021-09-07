@@ -1,6 +1,6 @@
 [![Logo](https://github.com/AdrianOliv/Assets/blob/main/Logoti.gif)](https://github.com/AdrianOliv)
 
-# AdrianOliv
+# Adrian Oliveira
 
 Moved by modern and timeless issues, I learned to always look for content to answer my doubts.  
 One is: how are things formed?  
