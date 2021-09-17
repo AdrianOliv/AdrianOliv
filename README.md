@@ -1,5 +1,5 @@
 # Adrian Oliveira
-<img align="left" alt="GIF" src="https://github.com/AdrianOliv/Assets/blob/main/Adrian_oliv.gif"  width="300"/>
+<img align="left" alt="GIF" src="https://github.com/AdrianOliv/Assets/blob/main/Gifs/Adrian_oliv.gif"  width="300"/>
 
 <pre></pre>
 
