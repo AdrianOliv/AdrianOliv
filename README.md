@@ -19,6 +19,7 @@ Curiosity and enthusiasm for programming things and their languages motivated me
 
   [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ag-noliveira)
   [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ag.noliveira)
+  [![Pinterest](https://img.shields.io/badge/Pinterest-%23A60019.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/ag_noliveira)
 
 ### My Repositories
 [credits]: <> (github.com/anuraghazra/github-readme-stats)
