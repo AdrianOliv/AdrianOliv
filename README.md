@@ -11,7 +11,7 @@ Curiosity and enthusiasm for programming things and their languages motivated me
 
 ### My Infos
 - 👋 Hello, I'm Adrian Oliveira - or @AdrianOliv
-- 🎓 Majoring in Production Engineering
+- 🎓 Majoring in Manufacturing Engineering
 - 🤓 I'm interested in learning more about programming
 - 🌱 I'm currently learning Python and Visual Basic
 - 🔨 Always practicing my ideas...
